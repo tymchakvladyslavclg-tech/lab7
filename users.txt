@@ -1,0 +1,6 @@
+V|student|1234
+Y|teacher|1234
+Vika|student|1234
+Андрій|student|1234
+Максим|student|1234
+Тимчак Влад|student|1234
